@@ -1,0 +1,15 @@
+E:\ws-vs2022\ExercicioContribuintes\ExercicioContribuintes\bin\Debug\net6.0\ExercicioContribuintes.exe
+E:\ws-vs2022\ExercicioContribuintes\ExercicioContribuintes\bin\Debug\net6.0\ExercicioContribuintes.deps.json
+E:\ws-vs2022\ExercicioContribuintes\ExercicioContribuintes\bin\Debug\net6.0\ExercicioContribuintes.runtimeconfig.json
+E:\ws-vs2022\ExercicioContribuintes\ExercicioContribuintes\bin\Debug\net6.0\ExercicioContribuintes.dll
+E:\ws-vs2022\ExercicioContribuintes\ExercicioContribuintes\bin\Debug\net6.0\ExercicioContribuintes.pdb
+E:\ws-vs2022\ExercicioContribuintes\ExercicioContribuintes\obj\Debug\net6.0\ExercicioContribuintes.csproj.AssemblyReference.cache
+E:\ws-vs2022\ExercicioContribuintes\ExercicioContribuintes\obj\Debug\net6.0\ExercicioContribuintes.GeneratedMSBuildEditorConfig.editorconfig
+E:\ws-vs2022\ExercicioContribuintes\ExercicioContribuintes\obj\Debug\net6.0\ExercicioContribuintes.AssemblyInfoInputs.cache
+E:\ws-vs2022\ExercicioContribuintes\ExercicioContribuintes\obj\Debug\net6.0\ExercicioContribuintes.AssemblyInfo.cs
+E:\ws-vs2022\ExercicioContribuintes\ExercicioContribuintes\obj\Debug\net6.0\ExercicioContribuintes.csproj.CoreCompileInputs.cache
+E:\ws-vs2022\ExercicioContribuintes\ExercicioContribuintes\obj\Debug\net6.0\ExercicioContribuintes.dll
+E:\ws-vs2022\ExercicioContribuintes\ExercicioContribuintes\obj\Debug\net6.0\refint\ExercicioContribuintes.dll
+E:\ws-vs2022\ExercicioContribuintes\ExercicioContribuintes\obj\Debug\net6.0\ExercicioContribuintes.pdb
+E:\ws-vs2022\ExercicioContribuintes\ExercicioContribuintes\obj\Debug\net6.0\ExercicioContribuintes.genruntimeconfig.cache
+E:\ws-vs2022\ExercicioContribuintes\ExercicioContribuintes\obj\Debug\net6.0\ref\ExercicioContribuintes.dll
